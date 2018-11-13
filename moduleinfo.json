@@ -1,0 +1,11 @@
+{
+    "name": "Composer Autoload",
+    "archiveName": "composer/autoload",
+    "sourceDir": "new_files",
+    "version": "1.0.0",
+    "shortDescription": "Kurzbeschreibung",
+    "description": "Beschreibung",
+    "developer": "composer",
+    "developerWebsite": "http://getcomposer.org/",
+    "website": "http://getcomposer.org/"
+}
