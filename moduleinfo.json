@@ -2,10 +2,22 @@
     "name": "Composer Autoload",
     "archiveName": "composer/autoload",
     "sourceDir": "new_files",
-    "version": "1.0.0",
+    "version": "auto",
+
     "shortDescription": "Kurzbeschreibung",
     "description": "Beschreibung",
+
     "developer": "composer",
     "developerWebsite": "http://getcomposer.org/",
-    "website": "http://getcomposer.org/"
+    "website": "http://getcomposer.org/",
+
+    "category": "library",
+    "price": "free",
+
+    "modifiedCompatibility": [
+        "2.0.3.0",
+        "2.0.4.0",
+        "2.0.4.1",
+        "2.0.4.2"
+    ]
 }
