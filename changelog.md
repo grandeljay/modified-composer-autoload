@@ -1,5 +1,11 @@
 # Änderungsprotokoll
-Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) und vewendet [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) und vewendet [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unreleased].
+
+### Added
+- Feature: Modul an modified 3.0.0 angepasst
 
 ## 1.3.0 - 2023-01-10
 ### Added
