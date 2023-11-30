@@ -1,7 +1,7 @@
 {
     "name": "Composer Autoload",
     "archiveName": "composer/autoload",
-    "sourceDir": "new_files",
+    "sourceDir": "src",
     "version": "auto",
 
     "shortDescription": "Kurzbeschreibung",
