@@ -4,8 +4,7 @@
     "sourceDir": "src",
     "version": "auto",
 
-    "shortDescription": "Kurzbeschreibung",
-    "description": "Beschreibung",
+    "shortDescription": "Composer Autoload erleichtert das automatische Laden von PHP-Klassen durch die Generierung einer Autoload-Datei, was den manuellen Inklusionsaufwand minimiert.",
 
     "developer": "composer",
     "developerWebsite": "http://getcomposer.org/",
