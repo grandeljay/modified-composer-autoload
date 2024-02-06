@@ -4,6 +4,10 @@ Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 
 ## [Unreleased]
 Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unreleased].
 
+## [1.5.0] - 2024-02-06
+### Added
+- Feature: Modul an modified 3.0.1 und 3.0.2 angepasst
+
 ## [1.4.0] - 2023-11-30
 ### Added
 - Feature: Modul an modified 3.0.0 angepasst
@@ -37,7 +41,8 @@ Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unr
 ### Added
 - Feature: Initiale Version
 
-[Unreleased]: https://github.com/RobinTheHood/modified-stripe/compare/1.4.0...HEAD
+[Unreleased]: https://github.com/RobinTheHood/modified-stripe/compare/1.5.0...HEAD
+[1.5.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.4.0...1.5.0
 [1.4.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.3.0...1.4.0
 [1.3.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.2.2...1.3.0
 [1.2.2]: https://github.com/RobinTheHood/modified-std-module/compare/1.2.1...1.2.2
