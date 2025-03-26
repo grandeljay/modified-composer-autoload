@@ -1,8 +1,12 @@
 # Änderungsprotokoll
-Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) und vewendet [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+Das Format basiert auf [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) und verwendet [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unreleased].
+
+## [1.7.0] - 2025-03-26
+### Added
+- Feature: Modul an modified 3.1.3 angepasst
 
 ## [1.6.0] - 2024-11-05
 ### Added
@@ -45,7 +49,8 @@ Unreleased features and fixes can be viewed on GitHub. To do this, click on [Unr
 ### Added
 - Feature: Initiale Version
 
-[Unreleased]: https://github.com/RobinTheHood/modified-stripe/compare/1.6.0...HEAD
+[Unreleased]: https://github.com/RobinTheHood/modified-stripe/compare/1.7.0...HEAD
+[1.7.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.6.0...1.7.0
 [1.6.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.5.0...1.6.0
 [1.5.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.4.0...1.5.0
 [1.4.0]: https://github.com/RobinTheHood/modified-std-module/compare/1.3.0...1.4.0
